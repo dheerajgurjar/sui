@@ -8,7 +8,7 @@ done ✅ ✅
 
 Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move).
 
-## Sui Highlights
+# Sui Highlights
 
 Sui offers the following benefits and capabilities:
 
